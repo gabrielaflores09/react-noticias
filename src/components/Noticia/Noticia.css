@@ -1,0 +1,54 @@
+.cuerpo {
+    padding: 15px;
+    background-color: #f1faee;
+}
+
+.noticia {
+    padding: 10px;
+}
+
+a.linkNoticia:link {
+    text-decoration: none;
+}
+
+.content {
+    background-color: #457b9d;
+}
+
+.imageNoticia {
+    position: relative;
+    display: inline-block;
+    max-height: 170px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.imageArticle {
+    width: 100%;
+    height: 100%;
+}
+
+.autorNoticia {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    background-color: #457b9d;
+    color: white;
+    padding: 1px 5px 1px 5px;
+}
+
+.tituloNoticia {
+    background-color: white;
+    padding: 10px;
+    min-height: 130px;
+}
+
+.fuenteNoticia {
+    color: #457b9d;
+    font-size: 15px;
+}
+
+.titulo {
+    font-size: 17px;
+    color: #000000
+}
